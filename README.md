@@ -14,7 +14,7 @@ This tutorial provides a step-by-step guide on setting up a basic home lab with 
 ## Files You Need to Download
 - [Win Server 2016 Download](https://info.microsoft.com/ww-landing-windows-server-2016.html)
 - [Windows 10 ISO Download](https://www.microsoft.com/en-us/software-download/windows10)
-- [AD_PS-master Download file](https://github.com/EricGade/HomeLab-AD-Powershell/blob/main/AD_PS-master.zip)
+- [AD_PS-master Download file](https://github.com/Dakalo-Ndonde15/HomeLab-AD-Powershell/blob/main/AD_PS-master.zip)
 
 ## Steps Included
 1. Virtual Machines Setup
